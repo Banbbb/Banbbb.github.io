@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### TOpIC
 
-**Bold** GAMING
+ **GAMING**
 
 ```markdown
 Syntax highlighted code block
