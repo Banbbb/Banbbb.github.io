@@ -1,4 +1,4 @@
-## Welcome to TRoll Pages
+## **Welcome to TRoll Pages**
 
 Here you will learn and find troll loadouts such as the short habibi ak
 ### TOpIC
