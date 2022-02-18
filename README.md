@@ -6,7 +6,7 @@ Here you will learn and find troll loadouts such as the short habibi ak
  **GAMING**
 
 ```markdown
-Syntax highlighted code block
+Habibi ak
 
 # Header 1
 ## Header 2
