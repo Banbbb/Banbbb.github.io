@@ -1,7 +1,7 @@
 ## **WelComE to TRoll PaGes**
 
 Welcome to troll page,here you will learn and find troll loadouts such as the short Habibi ak and more.
-You will also find tips here.
+You will also find tips and tricks here.
 
 ### Tips
 
