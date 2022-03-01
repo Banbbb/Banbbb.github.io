@@ -31,7 +31,7 @@ You will also find tips here.
 ![274551576_377589440470571_4124628368481449256_n](https://user-images.githubusercontent.com/99862373/156134464-e42cf83f-b219-446b-83d6-d77d54a582f2.jpg)
 **aTAtchments**
 
-**Barrel: Rapid Fire BaRELL.**
+**Barrel: Rapid Fire BaRELL**
 
 **Under barrel: Patrol foreGrIP.**
 
@@ -119,6 +119,11 @@ You will also find tips here.
 ## If you want to play with the creator click the link bellow.
 https://invite.codm.garena.com/system_en_SG.html
 
+## For beginers click the linck bellow.
+https://www.youtube.com/watch?v=tMsy2SGRpGs
+
+## For more tips Click the linck bellow.
+https://www.youtube.com/watch?v=IVCcSDUnXFs
 
 
 
