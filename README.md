@@ -8,7 +8,7 @@ Here you will learn and find troll loadouts such as the short Habibi ak
 ```markdown
 
 # Long ak
-![nfhjsdfhjds](https://user-images.githubusercontent.com/99862373/156129198-61df0951-c33d-4c92-b58b-5f6d59a0d74c.jpg)
+![nfhjsdfhjds](https://user-images.githubusercontent.com/99862373/156131202-92456c7d-9b44-4459-9782-314d14d14c2f.jpg)
 ## Smerf peacemaker
 ### 
 
