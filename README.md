@@ -61,7 +61,7 @@ You will also find tips and tricks here.
 
 **Sights: RTC 4.4x tactical scope**
 
-**Ammunition: Large extended Mag B******
+**Ammunition: Large extended Mag B***
 
 **Stock: OWC Ranger Stock****
 
