@@ -1,16 +1,16 @@
 ## **Welcome to TRoll Pages**
 
-Here you will learn and find troll loadouts such as the short habibi ak
-### TOpIC
+Here you will learn and find troll loadouts such as the short Habibi ak
+### LOadouts
 
  **GAMING**
 
 ```markdown
-Habibi ak
 
-# Header 1
-## Header 2
-### Header 3
+# Long ak
+
+## Smerf peacemaker
+### 
 
 - Bulleted
 - List
