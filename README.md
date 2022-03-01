@@ -8,7 +8,9 @@ Here you will learn and find troll loadouts such as the short Habibi ak
 ```markdown
 
 # Long ak
-![nfhjsdfhjds](https://user-images.githubusercontent.com/99862373/156131202-92456c7d-9b44-4459-9782-314d14d14c2f.jpg)
+![274565917_3083801698592498_2237653495004935020_n](https://user-images.githubusercontent.com/99862373/156132030-5ffa1052-b55c-4459-aa14-5b09609026fa.jpg)
+![274405282_698856811560152_2725157993061968554_n](https://user-images.githubusercontent.com/99862373/156132127-a2991aea-3bf4-423c-9f7a-a0d0cc142036.jpg)
+
 ## Smerf peacemaker
 ### 
 
@@ -23,7 +25,8 @@ Here you will learn and find troll loadouts such as the short Habibi ak
 [Link](url) and ![Image](src)
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).![274405282_698856811560152_2725157993061968554_n](https://user-images.githubusercontent.com/99862373/156132107-3c6e86e6-104b-4433-8dca-7d6be5f0661c.jpg)
+
 
 ### Jekyll Themes
 
