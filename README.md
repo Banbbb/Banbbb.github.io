@@ -17,6 +17,7 @@ You will also find tips and tricks here.
 # Long ak
 ![274565917_3083801698592498_2237653495004935020_n](https://user-images.githubusercontent.com/99862373/156134206-5445b96f-9e76-46f6-8af5-b2d7b75cfc58.jpg)
 **aTAtchments**
+
 **Barrel: Owc mArkSMan**
 
 **Sight: RTC 4.4x TacTiCal sScoPe**
@@ -42,6 +43,7 @@ You will also find tips and tricks here.
 # Short 56
 ![274628384_1640710062931925_8069033010249450769_n](https://user-images.githubusercontent.com/99862373/156136840-a4513fe6-d688-4ac1-ad9a-0ff52426ac9a.jpg)
 **aTAtchments**
+
 **Barrel: Intruder stock
 
 **Under barrel: Merc FOrGrip**
@@ -55,6 +57,7 @@ You will also find tips and tricks here.
 # Ass-haaaaa
 ![274405282_698856811560152_2725157993061968554_n](https://user-images.githubusercontent.com/99862373/156136900-a02c9dd7-c475-44aa-acd0-f39f403aff07.jpg)
 **aTAtchments**
+
 **Barrel: Mip 105mm Melee Barrel**
 
 **Under barrel: Merc Fore Grip**
@@ -68,6 +71,7 @@ You will also find tips and tricks here.
 # No-45
 ![274333923_1119654568882684_5622792814375487043_n](https://user-images.githubusercontent.com/99862373/156141933-48cfbad5-5189-49ce-9993-66890f1bca0c.jpg)
 **aTAtchments**
+
 **Perk: Slight of hand****
 
 **Barrel: Mip Custom light****
@@ -83,6 +87,7 @@ It is advisable to use the perk [FLACK JAKET] in this build
 # Crie technuiq
 ![274561188_342743307779177_7557336343795498556_n](https://user-images.githubusercontent.com/99862373/156142177-0ecb1f81-260f-45f5-a569-dcfd6673150f.jpg)
 **aTAtchments**
+
 **Muzzle: Rtc COmpenSATOR**
 
 **Barrel: OWC mARcksMan**
@@ -93,7 +98,17 @@ It is advisable to use the perk [FLACK JAKET] in this build
 
 **Rear Grip: RuBBerized GrIp Tape**
 
-#Slowest GuN in the NOrth
+# Slowest GuN in the NOrth
+![274531067_356732079695244_735692696489597676_n](https://user-images.githubusercontent.com/99862373/156512058-c4825dcd-ac88-4ef4-b1a4-ec8d11fa0e22.jpg)
+**aTAtchments**
+
+**Muzzle: RTC coMPpinsator**
+
+**Barrel: OWC MArKSman**
+
+**Ammunition: 25x59mm Explosive**
+
+**Stock: RTC STEady STocK**
 
 
 # Midnight special
@@ -107,20 +122,11 @@ It is advisable to use the perk [FLACK JAKET] in this build
 **Laser: OWC LASer**
 
 **Rear grip: GrAnUlated GRip TApe.**
-![274531067_356732079695244_735692696489597676_n](https://user-images.githubusercontent.com/99862373/156510427-d718fa06-8713-4b3d-9864-c5ff3f5b8bb7.jpg)
-**aTAtchments**
-
-**Muzzle: RTC coMPpinsator**
-
-**Barrel: OWC MArKSman**
-
-**Ammunition: 25x59mm Explosive**
-
-**Stock: RTC STEady STocK**
 
 # The Kasik
 ![274957664_318587973656610_1395165183531325936_n](https://user-images.githubusercontent.com/99862373/156142901-62a35809-f631-4b7c-9197-b4f6b7c8f190.jpg)
 **aTAtchments**
+
 **Barrel: j358 Long**
 
 **Sight: 4x TaCTiCal ScoPe**
@@ -135,15 +141,15 @@ It is advisable to use the perk [FLACK JAKET] in this build
 
 **If you want to play with the creator click the link bellow.**
 
-https://invite.codm.garena.com/system_en_SG.html
+[The GAme]{https://invite.codm.garena.com/system_en_SG.html}
 
 **For beginers click the linck bellow.**
 
-https://www.youtube.com/watch?v=tMsy2SGRpGs
+[LOL NOOB]{https://www.youtube.com/watch?v=tMsy2SGRpGs}
 
 **For more tips Click the linck bellow.**
 
-https://www.youtube.com/watch?v=IVCcSDUnXFs
+[Lol MOre NOOB]{https://www.youtube.com/watch?v=IVCcSDUnXFs}
 
 
 
