@@ -27,7 +27,7 @@ You will also find tips and tricks here.
 
 **AmmUniTion: Large mag b**
 
-## Peace braker
+# Peace braker
 ![274551576_377589440470571_4124628368481449256_n](https://user-images.githubusercontent.com/99862373/156134464-e42cf83f-b219-446b-83d6-d77d54a582f2.jpg)
 **aTAtchments**
 
@@ -39,7 +39,7 @@ You will also find tips and tricks here.
 
 **StOcK: No StOCk.**
 
-## Short 56
+# Short 56
 ![274628384_1640710062931925_8069033010249450769_n](https://user-images.githubusercontent.com/99862373/156136840-a4513fe6-d688-4ac1-ad9a-0ff52426ac9a.jpg)
 **aTAtchments**
 **Barrel: Intruder stock
@@ -52,7 +52,7 @@ You will also find tips and tricks here.
 
 **Stock: No Stock**
 
-## Ass-haaaaa
+# Ass-haaaaa
 ![274405282_698856811560152_2725157993061968554_n](https://user-images.githubusercontent.com/99862373/156136900-a02c9dd7-c475-44aa-acd0-f39f403aff07.jpg)
 **aTAtchments**
 **Barrel: Mip 105mm Melee Barrel**
@@ -65,7 +65,7 @@ You will also find tips and tricks here.
 
 **Stock: OWC Ranger Stock****
 
-## No-45
+# No-45
 ![274333923_1119654568882684_5622792814375487043_n](https://user-images.githubusercontent.com/99862373/156141933-48cfbad5-5189-49ce-9993-66890f1bca0c.jpg)
 **aTAtchments**
 **Perk: Slight of hand****
@@ -78,7 +78,7 @@ You will also find tips and tricks here.
 
 **Stock: Owc SkeLLeTon StoCK**
 
-## Crie technuiq
+# Crie technuiq
 ![274561188_342743307779177_7557336343795498556_n](https://user-images.githubusercontent.com/99862373/156142177-0ecb1f81-260f-45f5-a569-dcfd6673150f.jpg)
 **aTAtchments**
 **Muzzle: Rtc COmpenSATOR**
@@ -91,7 +91,7 @@ You will also find tips and tricks here.
 
 **Rear Grip: RuBBerized GrIp Tape**
 
-## Midnight special
+# Midnight special
 ![274600721_4987170608011349_7604808554676185802_n](https://user-images.githubusercontent.com/99862373/156143281-38681adf-6465-4b27-8c39-850e39e6dfe6.jpg)
 **aTAtchments**
 
@@ -103,7 +103,7 @@ You will also find tips and tricks here.
 
 **Rear grip: GrAnUlated GRip TApe.**
 
-## The Kasik
+# The Kasik
 ![274957664_318587973656610_1395165183531325936_n](https://user-images.githubusercontent.com/99862373/156142901-62a35809-f631-4b7c-9197-b4f6b7c8f190.jpg)
 **aTAtchments**
 **Barrel: j358 Long**
@@ -116,7 +116,7 @@ You will also find tips and tricks here.
 
 **Rear Grip: ShoULDER SSTock-WOoD**
 
-## LINKS
+# LINKS
 
 **If you want to play with the creator click the link bellow.**
 
