@@ -93,6 +93,9 @@ It is advisable to use the perk [FLACK JAKET] in this build
 
 **Rear Grip: RuBBerized GrIp Tape**
 
+#Slowest GuN in the NOrth
+
+
 # Midnight special
 ![274600721_4987170608011349_7604808554676185802_n](https://user-images.githubusercontent.com/99862373/156143281-38681adf-6465-4b27-8c39-850e39e6dfe6.jpg)
 **aTAtchments**
@@ -104,6 +107,16 @@ It is advisable to use the perk [FLACK JAKET] in this build
 **Laser: OWC LASer**
 
 **Rear grip: GrAnUlated GRip TApe.**
+![274531067_356732079695244_735692696489597676_n](https://user-images.githubusercontent.com/99862373/156510427-d718fa06-8713-4b3d-9864-c5ff3f5b8bb7.jpg)
+**aTAtchments**
+
+**Muzzle: RTC coMPpinsator**
+
+**Barrel: OWC MArKSman**
+
+**Ammunition: 25x59mm Explosive**
+
+**Stock: RTC STEady STocK**
 
 # The Kasik
 ![274957664_318587973656610_1395165183531325936_n](https://user-images.githubusercontent.com/99862373/156142901-62a35809-f631-4b7c-9197-b4f6b7c8f190.jpg)
