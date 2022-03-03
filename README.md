@@ -78,6 +78,8 @@ You will also find tips and tricks here.
 
 **Stock: Owc SkeLLeTon StoCK**
 
+It is advisable to use the perk [FLACK JAKET] in this build
+
 # Crie technuiq
 ![274561188_342743307779177_7557336343795498556_n](https://user-images.githubusercontent.com/99862373/156142177-0ecb1f81-260f-45f5-a569-dcfd6673150f.jpg)
 **aTAtchments**
