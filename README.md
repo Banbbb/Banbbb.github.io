@@ -46,7 +46,7 @@ You will also find tips and tricks here.
 
 **Under barrel: Merc FOrGrip**
 
-**Amunition: M67 ammo
+**Amunition: M67 ammo**
 
 **Sights: RTC 4.4x tactical scope.**
 
