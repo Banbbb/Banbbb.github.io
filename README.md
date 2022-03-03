@@ -1,7 +1,7 @@
 ## **WelComE to TRoll PaGes**
 
-Welcome to troll page,here you will learn and find troll loadouts such as the short Habibi ak and more.
-You will also find tips and tricks here.
+Welcome to troll page,here you will learn and find OP loadouts such as the short Habibi ak and more.
+You will also find tips and tricks here that will make you better in CODM.
 
 ### Tips
 
@@ -155,4 +155,4 @@ It is advisable to use the perk [FLACK JAKET] in this build
 
 
 
-(ANY LOSS INCUCURE USING tHE LOAD OUT MENTIOND IN THIS SITE SHOULD BE HELD TO YOUR OWN LIABILITIES. fOR SHORT, GET GOOD NOOB)
+(ANY LOSS INCURRED USING tHE LOAD OUT MENTIONED IN THIS SITE SHOULD BE HELD TO YOUR LIABILITIES. fOR SHORT, GET GOOD NOOB)
