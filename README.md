@@ -149,7 +149,7 @@ It is advisable to use the perk [FLACK JAKET] in this build
 
 **For more tips Click the linck bellow.**
 
-[Lol MOre NOOB]{https://www.youtube.com/watch?v=IVCcSDUnXFs}
+[Lol MOre NOOB{https://www.youtube.com/watch?v=IVCcSDUnXFs}]
 
 
 
