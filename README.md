@@ -154,6 +154,4 @@ It is advisable to use the perk [FLACK JAKET] in this build
 
 
 
-
-
-(ANY LOSS INCURRED USING tHE LOAD OUT MENTIONED IN THIS SITE SHOULD BE HELD TO YOUR LIABILITIES. fOR SHORT, GET GOOD [NOOB](![download](https://user-images.githubusercontent.com/99862373/156913929-fc70c93c-e0e6-43a8-8120-e68c3a5f7143.jpg))
+(ANY LOSS INCURRED USING tHE LOAD OUT MENTIONED IN THIS SITE SHOULD BE HELD TO YOUR LIABILITIES. fOR SHORT, GET GOOD [NOOB](https://www.youtube.com/results?search_query=Noob+meme))
