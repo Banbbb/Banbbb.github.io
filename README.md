@@ -142,16 +142,16 @@ It is advisable to use the perk [FLACK JAKET] in this build
 
 **If you want to play with the creator click the link bellow.**
 
-	◙[The GAme](https://invite.codm.garena.com/system_en_SG.html)
+◙[The GAme](https://invite.codm.garena.com/system_en_SG.html)
 
 **For beginers click the linck bellow.**
 
-	◙[LOL NOOB](https://www.youtube.com/watch?v=tMsy2SGRpGs)
+◙[LOL NOOB](https://www.youtube.com/watch?v=tMsy2SGRpGs)
 
 **For more tips Click the linck bellow.**
 
-	◙[Lol MOre NOOB](https://www.youtube.com/watch?v=IVCcSDUnXFs)
+[Lol MOre NOOB](https://www.youtube.com/watch?v=IVCcSDUnXFs)
 
 
 
-(ANY LOSS INCURRED USING tHE LOAD OUT MENTIONED IN THIS SITE SHOULD BE HELD TO YOUR LIABILITIES. fOR SHORT, GET GOOD [NOOB](https://www.youtube.com/results?search_query=Noob+meme))
+ANY LOSS INCURRED USING tHE LOAD OUT MENTIONED IN THIS SITE SHOULD BE HELD TO YOUR LIABILITIES. fOR SHORT, [GET GOOD NOOB](https://www.youtube.com/watch?v=NiC9QhJUgEg)
