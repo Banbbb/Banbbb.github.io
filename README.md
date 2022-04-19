@@ -155,3 +155,6 @@ It is advisable to use the perk [FLACK JAKET] in this build
 
 (ANY LOSS INCURRED USING tHE LOAD OUT MENTIONED IN THIS SITE SHOULD BE HELD TO YOUR LIABILITIES. fOR SHORT, [GET GOOD NOOB](https://www.youtube.com/watch?v=NiC9QhJUgEg) )
 
+
+JaP gay
+
